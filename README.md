@@ -84,8 +84,7 @@ AB2 + AC3 + AD5 + AE7 + AF11 + AG13 + AH17 + AI19 + AJ23 = A + ABCDEFGHIJ
 
 ## Author 
 - **Amir Hossein Aghajari**
-
-Based on : [Chemical equation balancer (JavaScript) by Nayuki](https://www.nayuki.io/page/chemical-equation-balancer-javascript)
+- [Chemical equation balancer (JavaScript) by Nayuki](https://www.nayuki.io/page/chemical-equation-balancer-javascript)
 
 License
 =======
